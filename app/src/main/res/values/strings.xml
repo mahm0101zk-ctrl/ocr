@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bubble OCR</string>
+    <string name="service_desc">Shows a floating button. Tap it to capture the screen, select an area and read the text offline. No data leaves your device.</string>
+</resources>
